@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'lovelo';
+    src: url(Fonts\Lovelo.otf);
+}
+
+.ulee{
+    color:#000000;
+    font-family: 'quicksand','arial';
+    font-size: 30px;
+    border: 1px solid black;
+
+}
+
+.terminacionDeDominio{
+    color:#ff7b0e;
+    font-family: 'quicksand';    
+    font-size: 30px;
+}
+
+
+
