@@ -17,5 +17,38 @@
     font-size: 30px;
 }
 
+.header{
+    background-color: #f4f4f4;
+}
 
+.redes{
+    height: 60px;
+    width:60px;
+}
 
+.bold {
+    font-weight: bold;
+  }
+.light{
+    font-weight: lighter;
+}
+
+.centered{
+    text-align: center;
+}
+.acompaniantes{
+    width: 50px;
+}
+
+.contenedor{
+    display: flex;
+}
+.imagen{
+    height:20vw;
+}
+.estrecho{
+width:30vw;
+}
+.border{
+    border: 2px solid black;
+}
